@@ -1,0 +1,261 @@
+[
+ {
+  "station": "S ward",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 22996.0
+ },
+ {
+  "station": "Vikhroli",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 22944.0
+ },
+ {
+  "station": "Dahisar",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 22854.0
+ },
+ {
+  "station": "Gowanpada",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 22652.0
+ },
+ {
+  "station": "Marol",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 22383.0
+ },
+ {
+  "station": "K West ward",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 22150.0
+ },
+ {
+  "station": "Kandivali",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 22109.0
+ },
+ {
+  "station": "F North",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 22001.0
+ },
+ {
+  "station": "Thakare natya",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 21811.0
+ },
+ {
+  "station": "Dindoshi",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 21708.0
+ },
+ {
+  "station": "Mulund",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 21602.0
+ },
+ {
+  "station": "K East ward",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 21600.0
+ },
+ {
+  "station": "SWD Workshop dadar",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 21572.0
+ },
+ {
+  "station": "Kurla",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 21543.0
+ },
+ {
+  "station": "Chembur",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 21276.0
+ },
+ {
+  "station": "Andheri",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 21083.0
+ },
+ {
+  "station": "N ward",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 20838.0
+ },
+ {
+  "station": "L ward",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 20785.0
+ },
+ {
+  "station": "G South",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 20196.0
+ },
+ {
+  "station": "Chincholi",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 20187.0
+ },
+ {
+  "station": "MCGM 1",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 19919.0
+ },
+ {
+  "station": "Worli",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 19779.0
+ },
+ {
+  "station": "F South",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 19444.0
+ },
+ {
+  "station": "vileparle W",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 19394.0
+ },
+ {
+  "station": "M West ward",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 19054.0
+ },
+ {
+  "station": "Byculla",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 18655.0
+ },
+ {
+  "station": "Bandra",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 18469.0
+ },
+ {
+  "station": "Malvani",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 18461.0
+ },
+ {
+  "station": "Rawali camp",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 18371.0
+ },
+ {
+  "station": "Nair Hospital",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 18092.0
+ },
+ {
+  "station": "Memonwada",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 18071.0
+ },
+ {
+  "station": "B ward",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 17781.0
+ },
+ {
+  "station": "D Ward",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 17745.0
+ },
+ {
+  "station": "Colaba",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 17509.0
+ },
+ {
+  "station": "C ward",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 17023.0
+ },
+ {
+  "station": "H West ward",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 16971.0
+ },
+ {
+  "station": "Nariman Fire",
+  "periodStart": "2015-06-01",
+  "periodEnd": "2022-09-30",
+  "days": 976,
+  "totalMm": 15835.0
+ }
+]
